@@ -2,12 +2,12 @@
   "id": "plugin.com.TzuLao.deepseek",
   "plugin_type": "translate",
   "icon": "deepseek.svg",
-  "display": "deepseek - Tłumaczenie",
+  "display": "deepseek",
   "homepage": "https://github.com/tzulao55/pot-app-translate-plugin-deepseek",
   "needs": [
     {
       "key": "model",
-      "display": "模型选择 - Tłumaczenie",
+      "display": "模型选择",
       "type": "select",
       "options": {
         "deepseek-chat": "deepseek-chat",
@@ -17,7 +17,7 @@
     },
     {
       "key": "apiKey",
-      "display": "API密钥 - Tłumaczenie",
+      "display": "API密钥",
       "type": "input"
     }
   ],
